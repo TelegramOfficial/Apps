@@ -1,9 +1,9 @@
 **Telegram Applications**
->Our apps are open source and support reproducible builds. This means that anyone can independently verify that our code on GitHubis the exact [same code]() that was used to build the apps you download from App Store or Google Play. Developers are welcome to check out our [Guide to Reproducible Builds for iOS and Android](https://core.telegram.org/reproducible-builds).
+> Our apps are **open source** and support **reproducible builds**. This means that anyone can independently verify that our code on GitHubis the exact [same code]() that was used to build the apps you download from App Store or Google Play. Developers are welcome to check out our [Guide to Reproducible Builds for iOS and Android](https://core.telegram.org/reproducible-builds).
 
 **Mobile apps**
-> Telegram for Android
-> Telegram for iPhone and iPad
+> - [`Telegram for Android`]()
+> - [`Telegram for iPhone and iPad`]()
 
 You can also download the latest version of **Telegram for Android** from [this channel]().
 
@@ -32,7 +32,7 @@ You can also download the latest version of **Telegram for Android** from [this 
 
 For the moment we are focusing on open sourcing the things that allow developers to quickly build something using our API. We have published the code for our Android, iOS, web and desktop apps (Win, macOS and Linux) as well as the Telegram Database Library.
 
-> This code allows security researchers to fully evaluate our [end-to-end encryption implementation](). It is also possible to independently verify that Telegram apps available on Google Play and App Store are built using the [same code]() that we publish on GitHub.
+> This code allows security researchers to **fully evaluate** our [end-to-end encryption implementation](). It is also possible to **independently verify** that Telegram apps available on Google Play and App Store are built using the [same code]() that we publish on GitHub.
 
 <br>
 
