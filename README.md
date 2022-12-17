@@ -23,14 +23,10 @@ You can also download the latest version of **Telegram for Android** from [this 
 <br>
 
 **Unofficial apps**
-
-[Unigram, a client optimized for Windows 10](https://github.com/UnigramDev/Unigram) (based on [TDLib](https://core.telegram.org/tdlib)) (desktop and Xbox One)
-
-[MDGramYou](https://github.com/MDGramYou/MDGramYou)
-
-[Telegram CLI for Linux](https://github.com/UnigramDev/Unigram)
-
-[MadelineProto](https://github.com/danog/MadelineProto)
+- [Unigram, a client optimized for Windows 10](https://github.com/UnigramDev/Unigram) (based on [TDLib](https://core.telegram.org/tdlib)) (desktop and Xbox One)
+- [MDGramYou](https://github.com/MDGramYou/MDGramYou) for android.
+- [Telegram CLI for Linux](https://github.com/UnigramDev/Unigram)
+- [MadelineProto](https://github.com/danog/MadelineProto)
 
 <br>
 
