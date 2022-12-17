@@ -1,5 +1,5 @@
 **Telegram Applications**
->Our apps are open source and support reproducible builds. This means that anyone can independently verify that our [code on GitHub](#source-code) is the exact same code that was used to build the apps you download from App Store or Google Play. Developers are welcome to check out our Guide to Reproducible Builds for iOS and Android.
+>Our apps are open source and support reproducible builds. This means that anyone can independently verify that our [code on GitHub](source) is the exact same code that was used to build the apps you download from App Store or Google Play. Developers are welcome to check out our Guide to Reproducible Builds for iOS and Android.
 
 Mobile apps
 Telegram for Android
@@ -76,18 +76,21 @@ Alternative Telegram client for Android based on TDLib.
 Licensed under GPL v.3.0
 GitHub »
 
-[**Unofficial**](#source-code) **apps**
+
+[Code On Github](#source)
+
+**Unofficial apps**
 Telegram CLI (Unofficial)
 Linux Command-line interface for Telegram.
 Licensed under GNU GPL v. 2.
 GitHub »
 
-Unigram (Unofficial)
+**Unigram** (Unofficial)
 A Telegram client optimized for Windows 10 (desktop and Xbox One).
 Licensed under GNU GPL v. 3 or later.
 GitHub »
 
-MadelineProto (Unofficial)
+**MadelineProto** (Unofficial)
 A PHP MTProto Telegram client.
 Licensed under GNU AGPL v. 3.
 GitHub »
