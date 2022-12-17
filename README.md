@@ -1,5 +1,5 @@
 **Telegram Applications**
->Our apps are open source and support reproducible builds. This means that anyone can independently verify that our [code on GitHub](source) is the exact same code that was used to build the apps you download from App Store or Google Play. Developers are welcome to check out our Guide to Reproducible Builds for iOS and Android.
+>Our apps are open source and support reproducible builds. This means that anyone can independently verify that our [code on GitHub](#source) is the exact same code that was used to build the apps you download from App Store or Google Play. Developers are welcome to check out our Guide to Reproducible Builds for iOS and Android.
 
 Mobile apps
 Telegram for Android
